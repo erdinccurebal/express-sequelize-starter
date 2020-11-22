@@ -1,2 +1,2 @@
 # sequelize-starter
-Created By Erdinç Cürebal
+Erdinç Cürebal - NodeJS - Full Stack Developer
